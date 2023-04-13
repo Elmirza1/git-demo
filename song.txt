@@ -4,3 +4,7 @@ this is git
 this is shows haha if we can pull contents
 
 Iwant to add git gui&
+
+lest delete added file
+
+lets test how to reverting
